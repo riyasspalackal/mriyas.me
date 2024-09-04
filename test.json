@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "Record_e8af8e8b-ef1a-44d3-bfe4-568d8d1fa94e",
+    "_rev": "1-f0ff5f8d042c2adc52ec00733147252c",
+    "labels": [
+      "-HashTag_de56a50c-5bce-4fa3-8ddd-e8b175455047"
+    ],
+    "paymentType": 2,
+    "categoryConfirmReason": 4,
+    "refAmount": 1000,
+    "amount": 1000,
+    "decimalRefAmount": "10",
+    "currencyId": "-Currency_45633e23-60d5-4e46-9f45-065ac25cbe21",
+    "reservedCreatedAt": "2023-02-02T13:54:34.960Z",
+    "reservedModelType": "Record",
+    "recordState": 1,
+    "decimalAmount": "10",
+    "reservedUpdatedAt": "2023-02-02T13:54:34.971Z",
+    "reservedSource": "ios",
+    "type": 1,
+    "reservedAuthorId": "5e5ff7f6-6832-451b-9f69-3c4b6a80d888",
+    "note": "Du recharge",
+    "recordDate": "2023-02-02T13:52:47.092Z",
+    "reservedOwnerId": "5e5ff7f6-6832-451b-9f69-3c4b6a80d888",
+    "accountId": "-Account_0072a29d-4c5f-4734-837e-5e8bcd959da1",
+    "categoryId": "-Category_a743b1cf-3aa3-4ebd-abea-be6965497183"
+  }
+]
