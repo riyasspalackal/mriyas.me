@@ -14,8 +14,8 @@
         "R596": {
             "MYWT3AE/A": {
                 "availability": {
-                    "contract": false,
-                    "unlocked": false
+                    "contract": true,
+                    "unlocked": true
                 }
             },
             "MYWQ3AE/A": {
