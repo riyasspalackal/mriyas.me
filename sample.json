@@ -20,8 +20,8 @@
             },
             "MYWQ3AE/A": {
                 "availability": {
-                    "contract": false,
-                    "unlocked": false
+                    "contract": true,
+                    "unlocked": true
                 }
             },
             "MYWN3AE/A": {
