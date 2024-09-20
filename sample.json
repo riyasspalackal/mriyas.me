@@ -1,0 +1,695 @@
+{
+    "isToday": true,
+    "launchDate": {
+        "en_AE": "Friday, September 20, 2024"
+    },
+    "preLaunchStartDate": {
+        "en_AE": "Friday, September 13, 2024"
+    },
+    "updated": 1726832400142,
+    "preLaunchStartTime": {
+        "en_AE": "4:00 PM"
+    },
+    "stores": {
+        "R596": {
+            "MYWT3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWQ3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWN3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWH3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWK3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYNC3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWL3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN13AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWR3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYNA3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN43AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMY3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN73AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMV3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN33AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN03AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN63AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN93AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMX3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWM3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWP3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWU3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN83AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMW3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN53AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN23AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWJ3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWG3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            }
+        },
+        "R597": {
+            "MYWT3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWQ3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWN3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWH3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWK3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYNC3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWL3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN13AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWR3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYNA3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN43AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMY3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN73AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMV3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN33AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN03AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN63AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN93AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMX3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWM3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWP3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWU3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN83AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMW3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN53AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN23AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWJ3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWG3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            }
+        },
+        "R595": {
+            "MYWT3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWQ3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWN3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWH3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWK3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYNC3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWL3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN13AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWR3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYNA3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN43AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMY3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN73AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMV3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN33AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN03AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN63AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN93AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMX3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWM3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWP3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWU3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN83AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMW3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN53AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN23AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWJ3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWG3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            }
+        },
+        "R706": {
+            "MYWT3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWQ3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWN3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWH3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWK3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYNC3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWL3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN13AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWR3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYNA3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN43AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMY3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN73AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMV3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN33AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN03AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN63AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN93AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMX3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWM3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWP3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWU3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN83AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYMW3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN53AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYN23AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWJ3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            },
+            "MYWG3AE/A": {
+                "availability": {
+                    "contract": false,
+                    "unlocked": false
+                }
+            }
+        }
+    }
+}
